@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PdfToWordWebApp/static/css/main.cdba86e2.chunk.css",
+    "main.js": "/PdfToWordWebApp/static/js/main.5d843f01.chunk.js",
+    "main.js.map": "/PdfToWordWebApp/static/js/main.5d843f01.chunk.js.map",
+    "runtime-main.js": "/PdfToWordWebApp/static/js/runtime-main.3b204bcf.js",
+    "runtime-main.js.map": "/PdfToWordWebApp/static/js/runtime-main.3b204bcf.js.map",
+    "static/js/2.5ac3db64.chunk.js": "/PdfToWordWebApp/static/js/2.5ac3db64.chunk.js",
+    "static/js/2.5ac3db64.chunk.js.map": "/PdfToWordWebApp/static/js/2.5ac3db64.chunk.js.map",
+    "index.html": "/PdfToWordWebApp/index.html",
+    "precache-manifest.c0e75bd385db5eb99fb94394e5ef408c.js": "/PdfToWordWebApp/precache-manifest.c0e75bd385db5eb99fb94394e5ef408c.js",
+    "service-worker.js": "/PdfToWordWebApp/service-worker.js",
+    "static/css/main.cdba86e2.chunk.css.map": "/PdfToWordWebApp/static/css/main.cdba86e2.chunk.css.map",
+    "static/js/2.5ac3db64.chunk.js.LICENSE.txt": "/PdfToWordWebApp/static/js/2.5ac3db64.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b204bcf.js",
+    "static/js/2.5ac3db64.chunk.js",
+    "static/css/main.cdba86e2.chunk.css",
+    "static/js/main.5d843f01.chunk.js"
+  ]
+}
