@@ -11,7 +11,7 @@ UPLOAD_FOLDER = 'upload'
 
 
 
-app = Flask(__name__, static_folder=os.path.join('..', 'build', static_url_path='/'))
+app = Flask(__name__, static_folder=os.path.join('..', 'build'), static_url_path='/')
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.secret_key = b'_asdf^&j"F4Q8z\n\xec]/'
 api = Api(app)

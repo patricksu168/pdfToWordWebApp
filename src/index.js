@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import axios from 'axios';
+import 'react-app-polyfill/ie9';
+import 'react-app-polyfill/stable';
 
 class PdfToWord extends React.Component {
     constructor(props) {

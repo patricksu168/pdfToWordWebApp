@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^7.1.2",
     "axios": "^0.19.2",
     "react": "^16.13.1",
+    "react-app-polyfill": "^1.0.6",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
@@ -38,6 +39,5 @@
   "proxy": "http://localhost:5000",
   "devDependencies": {
     "gh-pages": "^2.2.0"
-  },
-  "homepage": "https://patricksu168.github.io/PdfToWordWebApp"
+  }
 }
